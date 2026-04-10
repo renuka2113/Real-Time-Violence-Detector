@@ -1,6 +1,6 @@
 # Real-Time Violence Detection
 
-This repository contains a deep learning-based system for real-time violence detection using surveillance video streams. The system classifies live video input as *violent* or *non-violent* and raises alerts whenever violent activity is detected.
+This repository contains a deep learning-based system for real-time violence detection using surveillance video streams. The system classifies live video input as *violent* or *non-violent* and raises alerts whenever violent activity is detected. 
 
 ## Overview
 
